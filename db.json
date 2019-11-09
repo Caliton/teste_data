@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "user": [
+    { "id": 1, "name": "Luiz", senha: "123", email: "luiz@gmail.com", pin: "1234"},
+    { "id": 2, "name": "Fabiola", senha: "123", email: "fabiola@mail.com", pin: "1234"},
+    { "id": 3, "name": "Dyonathan", senha: "123", email: "dyonathan@mail.com", pin: "1234"}
+  ]
 }
