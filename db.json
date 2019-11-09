@@ -1,7 +1,7 @@
 {
   "user": [
-    { "id": 1, "name": "Luiz", senha: "123", email: "luiz@gmail.com", pin: "1234"},
-    { "id": 2, "name": "Fabiola", senha: "123", email: "fabiola@mail.com", pin: "1234"},
-    { "id": 3, "name": "Dyonathan", senha: "123", email: "dyonathan@mail.com", pin: "1234"}
+    { "id": 1, "name": "Luiz", "senha": "123", "email": "luiz@gmail.com", "pin": "1234"},
+    { "id": 2, "name": "Fabiola", "senha": "123", "email": "fabiola@mail.com", "pin": "1234"},
+    { "id": 3, "name": "Dyonathan", "senha": "123", "email": "dyonathan@mail.com", "pin": "1234"}
   ]
 }
