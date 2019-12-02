@@ -6,13 +6,13 @@
   ],
   "dataSource": [
     {
-      "id": 1
-      "password": "tecsis"
-      "port": "1234"
-      "securityIdentifier": "123.123.123-4"
-      "server": "banco.fw.landix.com.br"
-      "title": "Banco Oracle"
-      "type": {"label": "Oracle", "value": "1", "id": "1"}
+      "id": 1,
+      "password": "tecsis",
+      "port": "1234",
+      "securityIdentifier": "123.123.123-4",
+      "server": "banco.fw.landix.com.br",
+      "title": "Banco Oracle",
+      "type": {"label": "Oracle", "value": "1", "id": "1"},
       "user": "sa"
     }
   ]
