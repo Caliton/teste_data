@@ -17,10 +17,6 @@
     }
   ],
   "dashboard": [
-    {
-     "id": 1,
-     "name":"Dashboard",
-     "iconDashboard":"img-10.png"
-    }
+    { "id": 1, "name": "Dashboard", "iconDashboard": "img-10.png" }
   ]
 }
