@@ -15,5 +15,12 @@
       "type": {"label": "Oracle", "value": "1", "id": "1"},
       "user": "sa"
     }
+  ],
+  "dashboard": [
+    {
+     "id": 1,
+     "name":"Dashboard",
+     "iconDashboard":"img-10.png"
+    }
   ]
 }
