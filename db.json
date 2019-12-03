@@ -17,6 +17,9 @@
     }
   ],
   "dashboard": [
-    { "id": 1, "name": "Dashboard", "iconDashboard": "img-10.png" }
+    { "id": 1, "name": "Dashboard 1", "iconDashboard": "img-10.png" }
+    { "id": 2, "name": "Dashboard 2", "iconDashboard": "img-9.png" }
+    { "id": 3, "name": "Dashboard 3", "iconDashboard": "img-8.png" }
+    { "id": 4, "name": "Dashboard 4", "iconDashboard": "img-5.png" }
   ]
 }
