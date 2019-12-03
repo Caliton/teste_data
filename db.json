@@ -18,7 +18,7 @@
   ],
   "dashboard": [
     { "id": 1, "name": "Dashboard 1", "iconDashboard": "img-10.png"},
-    { "id": 2, "name": "Dashboard 2", "iconDashboard": "img-09.png"},
+    { "id": 2, "name": "Dashboard 2", "iconDashboard": "img-07.png"},
     { "id": 3, "name": "Dashboard 3", "iconDashboard": "img-08.png"},
     { "id": 4, "name": "Dashboard 4", "iconDashboard": "img-05.png"}
   ]
