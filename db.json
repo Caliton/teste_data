@@ -17,9 +17,9 @@
     }
   ],
   "dashboard": [
-    { "id": 1, "name": "Dashboard 1", "iconDashboard": "img-06.png", "color": "blue"},
-    { "id": 2, "name": "Dashboard 2", "iconDashboard": "img-07.png", "color": "red"},
-    { "id": 3, "name": "Dashboard 3", "iconDashboard": "img-08.png", "color": "green"},
-    { "id": 4, "name": "Dashboard 4", "iconDashboard": "img-05.png", "color": "yellow"}
+    { "id": 1, "name": "Dashboard 1", "icon": "img-06.png", "color": "#eee"},
+    { "id": 2, "name": "Dashboard 2", "icon": "img-07.png", "color": "#d05c5c"},
+    { "id": 3, "name": "Dashboard 3", "icon": "img-08.png", "color": "#5cd084"},
+    { "id": 4, "name": "Dashboard 4", "icon": "img-05.png", "color": "#5c6ed0"}
   ]
 }
