@@ -1,8 +1,8 @@
 {
   "Dashboard": [
-    {"id": 1, "name", "Dashboard"},
-    {"id": 2, "name", "Dashboard"},
-    {"id": 3, "name", "Dashboard"},
-    {"id": 4, "name", "Dashboard"}
+    {"id": 1, "name": "Dashboard"},
+    {"id": 2, "name": "Dashboard"},
+    {"id": 3, "name": "Dashboard"},
+    {"id": 4, "name": "Dashboard"}
   ]
 }
