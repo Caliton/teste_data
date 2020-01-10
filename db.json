@@ -1,17 +1,8 @@
 {
-  "equipe": [
-    "equipe 1", "equipe 2", "equipe 3", "equipe 4", "equipe 5", "equipe 6"
-  ],
-  "cliente": [
-    "cliente 1", "cliente 2", "cliente 3", "cliente 4", "cliente 5", "cliente 6"
-  ],
-  "forma_de_pagamento": [
-    "forma de pagamento 1", "forma de pagamento 2", "forma de pagamento 3", "forma de pagamento 4", "forma de pagamento 5", "forma de pagamento 6"
-  ],
-  "condição_de_pagamento": [
-    "condição de pagamento 1", "condição de pagamento 2", "condição de pagamento 3", "condição de pagamento 4", "condição de pagamento 5", "condição de pagamento 6"
-  ],
-  "nome_do_produto": [
-    "nome do produto 1", "nome do produto 2", "nome do produto 3", "nome do produto 4", "nome do produto 5", "nome do produto 6"
+  "Dashboard": [
+    {"id": 1, "name", "Dashboard"},
+    {"id": 2, "name", "Dashboard"},
+    {"id": 3, "name", "Dashboard"},
+    {"id": 4, "name", "Dashboard"}
   ]
 }
