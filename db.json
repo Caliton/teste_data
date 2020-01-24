@@ -7,7 +7,6 @@
   "createUser": {
     "nome": "",
     "email": "",
-    "password": "",
-    
+    "password": ""
   }
 }
