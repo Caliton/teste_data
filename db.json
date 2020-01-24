@@ -1,8 +1,13 @@
 {
-  "Dashboard": [
-    {"id": 1, "name": "Dashboard"},
-    {"id": 2, "name": "Dashboard"},
-    {"id": 3, "name": "Dashboard"},
-    {"id": 4, "name": "Dashboard"}
-  ]
+  "checkPin": "1234",
+  "user": {
+    "cpf": "123",
+    "password": "1230"
+  },
+  "createUser": {
+    "nome": "",
+    "email": "",
+    "password": "",
+    
+  }
 }
