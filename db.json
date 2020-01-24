@@ -1,12 +1,16 @@
 {
-  "checkPin": "1234",
-  "user": {
-    "cpf": "123",
-    "password": "1230"
+  "checkPin": {
+    "pin": "1234"
+  },
+  "login": {
+    "user": {
+      "cpf": "123",
+      "password": "1230"
+    }
   },
   "createUser": {
-    "nome": "",
-    "email": "",
-    "password": ""
+    "nome": "fulando",
+    "email": "fulando@mail.com",
+    "password": "123"
   }
 }
